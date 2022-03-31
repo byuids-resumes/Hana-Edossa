@@ -3,87 +3,75 @@ layout: cv
 title: Brigham Young's Resume
 ---
 # Hana Edossa 
-Business Analytics major and photography minor at Brigham Young University - Idaho.
+Business Analytics major at Brigham Young University - Idaho.
 
 <div id="webaddress">
-<a href="edo19001@byui.edu">datascience@byui.edu</a>
+<a href="edo19001@byui.edu">edo19001@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/hana-edossa/">LinkedIn</a>
+| <a href="https://github.com/byuids-resumes/Hana-Edossa">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
-## Education
-
-`2025-2027`
-__LDS Business College__, Rexburg, ID
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+### Education
+`Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 3.7 Major GPA
+- 3.8 Major GPA
 
 
-## Related Experience
+#### Relevant courses
+- Intro to Database • Intro to Programing • Programming with Functions • Data Science Programming • Spreadsheet Analysis • Micro/Macro Economics • Financial and Managerial Accounting • Business Statistics • Business Analytics • Financial Management
 
-### Internships
+#### TECHNICAL SKILLS
+Python (Pandas, Tkinter, Altair) • Excel • Macros • VBA (Visual Basic for Applications) • Power Point • Data Wrangling • Data mining • Data Visualization • SQL • Power BI • Tableau
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+### WORK EXPERIENCE
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+`Oct 2019 – Oct 2021`
+__Brigham Young University-Idaho__, Teaching Assistant
 
-### Data Science Lead
+- Developed a professional networking lesson plan and lectured over 50 students about using LinkedIn more efficiently
+- Tutored and assisted students either in one-on-one sessions or in small groups to aid them in mastering assignments and to reinforce learning concepts 
+- Counseled students on industry standards and company requirements in alignment with career goals
+- Prepared, duplicated, and devised teaching materials to help students better understand learning concepts
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`Aug 2020 – Sept 2020`
+__Ethiopian Community for Greater Philadelphia__, Data Analyst Intern
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
+- Gathered population data from the internal database to make sure families and individual of Ethiopian descent in Delaware were registered under the county
 - Established standardized SQL calls and connections for PowerBI dashboards
 - Found over $35k in waste and saved over 200 annual hours of store quality control work 
 
-### Data Science Consulting Team
+`Oct 2018 – Mar 2017`
+__Horizon Multimedia & Communications__, Background Story Builder Intern
 
-`January 2027 - April 2027`
-__Imagine Learning__
+- Coordinated with a team of marketers to promote concerts, highly rated TV shows, and radio programs
+- Planned and oversaw optimal branding techniques with directors, fellow performers, actors, and writers
+- Guided a casting program for TV commercials and facilitated various sponsorship opportunities
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+`Jan 2017 – Nov 2017`
+__Yididiya Student Supporting Center__, Vice President
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Secured financial stability for the center by volunteering over 100 hours of data analysis, risk assessment, and developing spending control strategies
+- Led a team of 15 which raised over 20,000 Birr in funds for the organization through community outreach initiatives
+- Consulted local government representatives to understand community needs and strategize response plans, which led to 20% increase in awareness and engagement
 
 
-## Service and Work History
+#### PROMINENT PROJECTS
+__Water Usage Analysis__
+• Wrote an interactive python program that analyzes a CSV file of over 240,000 data points to visualize the water usage
+metrics based on a respective user input using the Matplotlib and Pandas libraries
+__Molar Mass Calculator__
+• Built an interactive molar mass calculator and performed functional testing using the Pytest framework
+__Inventory Tracking Macro (VBA)__
+• Recorded an inventory analyzing and tracking Macro dashboard for a supply chain department
+__Marketing Survey Dashboard__
+• Developed a marketing survey dashboard with respect to age, gender, and location demographics
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+##### LEADERSHIP/ CERTIFICATES/ HONORS
+- Vice President of Women in Business
+Society
+- Spreadsheet Modeling, Harvard Business Publishing
+- Business Fundamentals, BYU-Idaho
